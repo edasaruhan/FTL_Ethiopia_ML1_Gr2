@@ -1,0 +1,11 @@
+Thank you for the thoughtful effort put into this idea — tackling maternal health with AI is both meaningful and strongly aligned with SDG 3, 5, and 10. The project clearly identifies a real-world problem in underserved communities and proposes a practical, interpretable ML-based solution, which shows sensitivity to the needs of the healthcare domain. The proposed use of accessible platforms like mobile or web apps also adds a user-centered strength to your design. To make the project more novel, consider integrating less commonly used yet high-impact features such as data from wearable devices (e.g., heart rate variability, sleep patterns), or psychosocial indicators (e.g., stress or nutrition levels). You could also explore datasets beyond the standard ones — for example:
+
+    Maternal Health Risk Data Set (UCI): Includes data on age, blood pressure, blood sugar, and risk labels.
+
+    Safe Motherhood Case Studies (WHO): Regional datasets with context-specific maternal health indicators.
+
+    MIMIC-III Clinical Database: Though more general, it includes pregnancy-related admissions and could be filtered accordingly.
+
+    India’s RMNCH+A Dataset: Offers maternal and child health indicators with socio-demographic context.
+
+Finally, collaborating with local hospitals or NGOs to co-design the tool and possibly access anonymized, community-specific data could greatly improve both impact and long-term sustainability.
